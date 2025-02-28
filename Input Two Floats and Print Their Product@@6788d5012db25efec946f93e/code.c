@@ -5,5 +5,5 @@ int main()
     printf("");
     scanf("%f %f", &n, &m);
     p=n*m;
-    printf("Product: %f", p);
+    printf("Product: %0.2f", p);
 }
